@@ -4,29 +4,28 @@
 ![AWS](https://img.shields.io/badge/AWS-Athena-orange)
 ![Data](https://img.shields.io/badge/Data-Quality-green)
 
-🎯 Data Analyst com foco em Data Quality, Analytics e Estratégia de Dados
+🎯 Atuo com análise de dados, com foco em Data Quality, Analytics e eficiência operacional
 
-Transformo dados em decisões confiáveis, atuando na validação, estruturação e evolução de dados com impacto direto no negócio.
+Trabalho na transformação de dados em informações confiáveis, atuando na validação, estruturação e evolução de dados para apoiar decisões de negócio.
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Atuação
 
 - Experiência com SQL (Athena) e ambiente AWS (S3, QuickSight)
 - Forte atuação em qualidade de dados e detecção de inconsistências
-- Criação de soluções para melhoria de performance e eficiência operacional
-- Construção de dashboards e análises para áreas de negócio
-- Perfil analítico, crítico e orientado a impacto
+- Construção de soluções voltadas à eficiência e confiabilidade dos dados
+- Desenvolvimento de dashboards e análises para áreas de negócio
 
 ---
 
-## 🧠 O que eu faço na prática
+## 🔍 Foco técnico
 
 ✔ Validação e padronização de dados  
 ✔ Identificação de falhas e inconsistências  
 ✔ Construção de pipelines de enriquecimento  
 ✔ Análise de performance e KPIs  
-✔ Tradução de dados em decisões  
+✔ Apoio à tomada de decisão  
 
 ---
 
@@ -40,25 +39,21 @@ Transformo dados em decisões confiáveis, atuando na validação, estruturaçã
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos
 
-🔹 [Data Enrichment Pipeline](https://github.com/MarianaNu/data-enrichment-pipeline)  
-Pipeline de decisão para enriquecimento de dados com base em regras de negócio e comportamento do cliente  
+🔹 Data Enrichment Pipeline  
+Pipeline de decisão para enriquecimento de dados com base em regras de negócio  
 
-🔹 [Data Quality Analytics](https://github.com/MarianaNu/data-quality-analytics)  
-Detecção de inconsistências e validação de regras críticas com impacto operacional  
+🔹 Data Quality Analytics  
+Análise de inconsistências com foco em impacto operacional  
 
-🔹 [Data Quality Contatos](https://github.com/MarianaNu/data-quality-contatos)  
-Validação e padronização de dados de contato (telefone e e-mail)  
-
----
-
-## 💡 Diferencial
-
-Tenho forte atuação na identificação de falhas em dados que impactam diretamente a operação — indo além da análise e atuando na causa raiz dos problemas.
+🔹 Data Quality Contatos  
+Validação e padronização de dados de contato  
 
 ---
 
-## 📫 Vamos nos conectar
+## 💡 Abordagem
 
-[LinkedIn](https://www.linkedin.com/in/mndsantos/)
+Acredito que dados só geram valor quando são confiáveis, bem estruturados e utilizados com contexto de negócio.
+
+Por isso, minha atuação vai além da análise, buscando identificar causas raiz e melhorar a qualidade das informações utilizadas na tomada de decisão.
