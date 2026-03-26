@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou a Mariana
 
+![SQL](https://img.shields.io/badge/SQL-Data-blue)
+![AWS](https://img.shields.io/badge/AWS-Athena-orange)
+![Data](https://img.shields.io/badge/Data-Quality-green)
+
 🎯 Data Analyst com foco em Data Quality, Analytics e Estratégia de Dados
 
 Transformo dados em decisões confiáveis, atuando na validação, estruturação e evolução de dados com impacto direto no negócio.
@@ -53,7 +57,8 @@ Validação e padronização de dados de contato (telefone e e-mail)
 
 Tenho forte atuação na identificação de falhas em dados que impactam diretamente a operação — indo além da análise e atuando na causa raiz dos problemas.
 
+---
 
 ## 📫 Vamos nos conectar
 
-[LinkedIn](#)
+[LinkedIn](https://www.linkedin.com/in/mndsantos/)
